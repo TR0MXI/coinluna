@@ -1,0 +1,2 @@
+config:
+  cacheTTL: 缓存时间(s)
